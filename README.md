@@ -11,8 +11,9 @@ howto
 * create a config file at /home/hg/hgssh2.conf:
 
     [bruce]
-    repo2 = read
-    repo3 = write`
+    
+    repo2 = read    
+    repo3 = write
 
 * add a new entry to ``/home/hg/.ssh/authorized_keys`` for bruce
 
