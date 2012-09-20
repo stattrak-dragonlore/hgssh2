@@ -1,7 +1,9 @@
 hgssh2
 ======
 
-a modified wrapper for ssh access to a limited set of mercurial repositories
+a wrapper for ssh access to a limited set of mercurial repositories, 
+
+modified from hg-ssh (http://www.selenic.com/repo/hg-stable/raw-file/tip/contrib/hg-ssh)
 
 howto
 ======
