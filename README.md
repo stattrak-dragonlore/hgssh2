@@ -6,6 +6,9 @@ A python script to control ssh access to mercurial repositories.
 modified from hg-ssh (http://www.selenic.com/repo/hg-stable/raw-file/tip/contrib/hg-ssh)
 
 
+See http://mercurial.selenic.com/wiki/SharedSSH for more information.
+
+
 How to
 -------
 
