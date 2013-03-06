@@ -53,6 +53,7 @@ def get_permission(user, conf):
                  }
     """
     config = ConfigParser.SafeConfigParser()
+    config.optionxform = str
     config.read(conf)
 
     if config.has_section(user):
